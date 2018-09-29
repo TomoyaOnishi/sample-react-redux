@@ -1,4 +1,4 @@
-# React & Redux & TypeScript & fas Template
+# React & Redux & TypeScript & fsa Template
 
 
 `$ yarn install`
